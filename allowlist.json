@@ -1,0 +1,12 @@
+{
+ "payload": {
+  "issued": "2026-09-19",
+  "users": [
+   {
+    "h": "b0da9c5a8aac7deffb6926d12b46950118c811ada2357e1c67d99e595317ecc0",
+    "exp": ""
+   }
+  ]
+ },
+ "sig": "MhdQzqGZ2ip9J68KUZr0J1mJMyrVgg+15K94SAGk/AOW6A0VZGP0dHIHnuWikIWfI9stwCyK516duLBJBJfADw=="
+}
